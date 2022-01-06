@@ -1,0 +1,122 @@
+[
+    {
+        "Background": "Orange",
+        "Team": "Oregon Planets",
+        "Fan": "Dallas",
+        "tokenId": 0
+    },
+    {
+        "Background": "Orange",
+        "Team": "Vancouver Voyagers",
+        "Fan": "Boston",
+        "tokenId": 1
+    },
+    {
+        "Background": "Purple",
+        "Team": "Denver X-Men",
+        "Fan": "Dallas",
+        "tokenId": 2
+    },
+    {
+        "Background": "Purple",
+        "Team": "San Fransisco Meteor Stroms",
+        "Fan": "Atlanta",
+        "tokenId": 3
+    },
+    {
+        "Background": "Blue",
+        "Team": "Michigan Martian's",
+        "Fan": "Arizona",
+        "tokenId": 4
+    },
+    {
+        "Background": "Orange",
+        "Team": "Dalla Beam Rays",
+        "Fan": "Brooklyn",
+        "tokenId": 5
+    },
+    {
+        "Background": "Blue",
+        "Team": "Dalla Beam Rays",
+        "Fan": "Dallas",
+        "tokenId": 6
+    },
+    {
+        "Background": "Orange",
+        "Team": "Chi-Town Crypto Cadets",
+        "Fan": "Boston",
+        "tokenId": 7
+    },
+    {
+        "Background": "Yellow",
+        "Team": "Oregon Planets",
+        "Fan": "Brooklyn",
+        "tokenId": 8
+    },
+    {
+        "Background": "Blue",
+        "Team": "Atlanta Abominable Aliens",
+        "Fan": "Dallas",
+        "tokenId": 9
+    },
+    {
+        "Background": "Blue",
+        "Team": "Toronto Cyberogs",
+        "Fan": "Boston",
+        "tokenId": 10
+    },
+    {
+        "Background": "Purple",
+        "Team": "Michigan Martian's",
+        "Fan": "Dallas",
+        "tokenId": 11
+    },
+    {
+        "Background": "Orange",
+        "Team": "Brooklyn Apollos",
+        "Fan": "Alaska",
+        "tokenId": 12
+    },
+    {
+        "Background": "Blue",
+        "Team": "Nashville Astronauts",
+        "Fan": "Atlanta",
+        "tokenId": 13
+    },
+    {
+        "Background": "Orange",
+        "Team": "Dalla Beam Rays",
+        "Fan": "Alaska",
+        "tokenId": 14
+    },
+    {
+        "Background": "Yellow",
+        "Team": "Toronto Cyberogs",
+        "Fan": "Dallas",
+        "tokenId": 15
+    },
+    {
+        "Background": "Blue",
+        "Team": "Oregon Planets",
+        "Fan": "Chicago",
+        "tokenId": 16
+    },
+    {
+        "Background": "Purple",
+        "Team": "Chi-Town Crypto Cadets",
+        "Fan": "Brooklyn",
+        "tokenId": 17
+    },
+    {
+        "Background": "Blue",
+        "Team": "Arizona Black Holes",
+        "Fan": "Dallas",
+        "tokenId": 18
+    },
+    {
+        "Background": "Purple",
+        "Team": "Los Angeles Lightyears",
+        "Fan": "Boston",
+        "tokenId": 19
+    }
+]

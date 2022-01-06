@@ -1,0 +1,14 @@
+{
+       "image": "INSERT_IMAGES_BASE_URI_HERE9.png",
+       "tokenId": 9,
+       "attributes": [
+              {
+                     "trait_type": "Background",
+                     "value": "Blue"
+              },
+              {
+                     "trait_type": "Fan",
+                     "value": "Dallas"
+              }
+       ]
+}

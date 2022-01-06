@@ -1,0 +1,14 @@
+{
+       "image": "INSERT_IMAGES_BASE_URI_HERE13.png",
+       "tokenId": 13,
+       "attributes": [
+              {
+                     "trait_type": "Background",
+                     "value": "Blue"
+              },
+              {
+                     "trait_type": "Fan",
+                     "value": "Atlanta"
+              }
+       ]
+}
